@@ -2,7 +2,7 @@
 
 ## GETTING STARTED:
 
-- Clone the repo - `git clone git@github.com:ninjakx/sudoku-image-solver.git` and cd into any directory.
+- Clone the repo - `https://github.com/bayshore-intelligence-solutions/Sudoku-Solver.git` and cd into any directory.
 
 - Create a virtual environment with Python 3 and install dependencies.
 
