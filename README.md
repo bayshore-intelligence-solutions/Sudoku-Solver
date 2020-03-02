@@ -1,8 +1,18 @@
 # sudoku-image-solver
 
+### Steps Taken:
+
+- Image PreProcessing ( closing operation )
+- Finding Sudoku Square and Creating Mask Image
+- Finding Vertical lines
+- Finding Horizontal Lines
+- Finding Grid Points
+- Correcting the defects
+- Extracting the digits from each cell
+
 ## GETTING STARTED:
 
-- Clone the repo - `https://github.com/bayshore-intelligence-solutions/Sudoku-Solver.git` and cd into any directory.
+- Clone the repo - `git clone https://github.com/bayshore-intelligence-solutions/Sudoku-Solver.git` and cd into any directory.
 
 - Create a virtual environment with Python 3 and install dependencies.
 
@@ -22,7 +32,8 @@ $ python sudoku.py --preprocess 1 --image images/s2.jpg
 ### preprocess 1 for transforming image
 ### preprocess 2 for already transformed image
 
-
+### Result:
+![img](https://github.com/bayshore-intelligence-solutions/Sudoku-Solver/raw/master/output_img/output.png)
 
 references:
 
